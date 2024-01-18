@@ -1,1 +1,2 @@
 # Augmented_reality
+This Python code utilizes the OpenCV library to implement a simple augmented reality (AR) application. The application captures video input from a webcam, detects keypoints and descriptors using the ORB (Oriented FAST and Rotated BRIEF) feature detector, and matches them between the input image (web.jpg) and the live video frames. The augmented image (card.jpg) is then overlaid onto the real-time video stream based on the detected matches.
